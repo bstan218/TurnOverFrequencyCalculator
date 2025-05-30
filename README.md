@@ -1,6 +1,8 @@
 # TurnOverFrequencyCalculator
 A python tool for calculating turn over frequency, energy span, TOF-determining transition state and TOF-determining intermediate for homogenous catalytic cycles.  
-## Dependencies  
+
+Based on the fortran program presented in _Theoretical Analysis of the Catalytic Cycle of a Nickel Cross-Coupling Process: Application of the Energetic Span Model_ by Kozuch et al. https://doi.org/10.1021/om800772g  
+## Dependencies   
 - Numpy
 ```python
 pip install numpy
